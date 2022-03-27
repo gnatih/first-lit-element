@@ -1,5 +1,8 @@
 web-*.config.js
-docs/
-docs-src/
-test/
-dev/
+docs
+docs-src
+test
+dev/*
+.vscode/
+.prettierrc.json
+
